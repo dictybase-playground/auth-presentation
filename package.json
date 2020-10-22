@@ -1,0 +1,24 @@
+{
+  "name": "auth-presentation",
+  "description": "`mdx-deck` presentation to show the new dictyBase authentication system.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx --no-html"
+  },
+  "dependencies": {
+    "mdx-deck": "^4.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dictybase-playground/auth-presentation.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dictybase-playground/auth-presentation/issues"
+  },
+  "homepage": "https://github.com/dictybase-playground/auth-presentation#readme"
+}
